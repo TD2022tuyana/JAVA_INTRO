@@ -1,3 +1,3 @@
 # JAVA_INTRO
 *Learning together with Netology*
-![](/java1.jpeg)
+![](C:\Users\tuyan\IdeaProjects\HelloNetology\HelloNetology\java1.jpeg)
